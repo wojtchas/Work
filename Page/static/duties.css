@@ -1,0 +1,17 @@
+body{font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+text-align: center;
+font-size:300%;
+width:50%;
+margin-left: auto;
+margin-right: auto;
+font-weight: 300;}
+
+p.Monday{background:#99FF99;}
+
+p.Tuesday{background:#FFFFBA;}
+
+p.Wednesday{background:#B2FFFF;}
+
+p.Thursday{background:#FFABFF;}
+
+p.Friday{background:#FF4040;}
